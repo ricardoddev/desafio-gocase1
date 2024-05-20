@@ -1,0 +1,20 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, input, textarea, button {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 0.875rem;
+    background: hsl(30, 38%, 92%);
+
+}
+
+body {
+    height: 100vh;
+    width: 100wh;
+    
+    padding-top: 25vh;
+}
